@@ -72,3 +72,4 @@ To get your own bot, follow these steps:
 - replace `<port_the_server_run>` by rhe port your server use to run
 - save the file and quit
 - start the server with the commant `python3 bottle_client.py`
+"# yaoichiii" 
